@@ -1,0 +1,44 @@
+.header {
+    background-color: rgb(65, 64, 64);
+    height: 15vh;
+}
+
+div {
+    float: left;
+}
+
+.left {
+    background-color: lightgrey;
+    height: 75vh;
+    width: 15vw;
+}
+
+.middle {
+    background-color: white;
+    height: 75vh;
+    width: 70vw;
+}
+
+.right {
+    background-color: lightgrey;
+    height: 75vh;
+    width: 15vw;
+}
+
+.b-left {
+    background-color: lightgrey;
+    height: 10vh;
+    width: 15vw;
+}
+
+.b-middle {
+    background-color: black;
+    height: 10vh;
+    width: 70vw;
+}
+
+.b-right {
+    background-color: lightgrey;
+    height: 10vh;
+    width: 15vw;
+}
