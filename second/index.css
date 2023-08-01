@@ -1,0 +1,29 @@
+div {
+    float: left;
+}
+
+.header {
+    height: 25vh;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 10px;
+}
+
+.purple-rec {
+    background-color: rgb(109, 24, 148);
+    height: 80%;
+    width: 5%;
+}
+
+.green-rec {
+    height: 100%;
+    width: 40%;
+    background-color: green;
+}
+
+.section {
+    height: 35vh;
+    border: 5px dotted black;
+    margin: 25px;
+}
+
